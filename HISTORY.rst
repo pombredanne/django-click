@@ -2,6 +2,20 @@
 History
 =======
 
+
+1.2.0 - 2016-05-19
+==================
+
+* Allow custom lookups on ``ModelInstance`` parameter types.
+
+
+1.1.0 - 2016-02-04
+==================
+
+* Add a ``ModelInstance`` parameter type to automatically retrieve model
+  instances by their primary key
+
+
 1.0.0 – 2015-09-14
 ==================
 
